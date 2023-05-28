@@ -1,4 +1,4 @@
-import System.Console
+use System.Console
 
 fun Main() {
     for (i in 1..100) {
