@@ -1,0 +1,13 @@
+use System.Console
+
+fun main() {
+    for (i in 1..100) {
+        if (i % 3 != 0 && i % 5 != 0) {
+            writeLine(i)
+            continue
+        }
+        if (i % 3 == 0) write("Fizz")
+        if (i % 5 == 0) write("Buzz")
+        writeLine()
+    }
+}

@@ -1,0 +1,5 @@
+use System.Console
+
+fun main() {
+    writeLine("Hello World!")
+}

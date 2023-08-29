@@ -1,5 +1,0 @@
-use System.Console
-
-fun Main() {
-    WriteLine("Hello World!")
-}
