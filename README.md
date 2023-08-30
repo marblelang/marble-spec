@@ -1,4 +1,4 @@
-<p style="text-align: center">
+<p style="text-align: center; width: 100%">
   <img alt="Marble logo" src="logo-with-text.svg" width="400" />
 </p>
 
