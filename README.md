@@ -4,6 +4,7 @@
 
 # Marble language specification
 
+[![License Badge](https://img.shields.io/badge/license-MIT-red)](LICENSE.txt)
 ![Version Badge](https://img.shields.io/badge/version-0.1.0--wip.2-orange)
 ![Stage Badge](https://img.shields.io/badge/stage-WIP-orange)
 
@@ -24,3 +25,11 @@ fun Main() {
     WriteLine("Hello World!")
 }
 ```
+
+## Table of Contents
+
+The table of contents for the specification can be found in the [README](spec/README.md) of the `spec` directory.
+
+## License
+
+This project is licensed under the MIT license. See the [LICENSE](LICENSE.txt) file for more information.
