@@ -1,3 +1,7 @@
+<p style="text-align: center">
+  <img alt="Marble logo" src="logo-with-text.svg" width="400" />
+</p>
+
 # Marble language specification
 
 ![Version Badge](https://img.shields.io/badge/version-0.1.0--wip.2-orange)
